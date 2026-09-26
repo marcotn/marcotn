@@ -8,7 +8,7 @@ actually use.
 
 - 🌍 [**coperni**](https://github.com/azuki-beans/coperni): air quality forecasts from Copernicus on a
   map, served from Parquet files with DuckDB on Google Cloud Run. [Live demo](https://coperni.azukibeans.dev)
-- 🔏 [**p7m-apri**](https://github.com/azuki-beans/p7m-apri): open and verify signed `.p7m` files in the browser
+- 🔏 [**p7m-apri**](https://github.com/azuki-beans/p7m-apri): open and verify signed `.p7m` files in the browser. [Live demo](https://p7m.azukibeans.dev)
 - 🧾 [**fatturapa**](https://github.com/azuki-beans/fatturapa): parser for Italian electronic invoices, zero dependencies
 - ✉️ [**azure-simple-email**](https://github.com/marcotn/azure_simple_email): send email through Microsoft Graph with a few lines of Python
 
